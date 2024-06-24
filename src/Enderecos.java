@@ -7,9 +7,5 @@ public class Enderecos {
     this.rua = rua;
     this.cidade = cidade;
     this.estado = estado;
-
-
-
-
    }
 }
