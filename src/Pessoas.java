@@ -1,4 +1,4 @@
-public class Pessoas {
+public class Pessoa {
     private String nome;
     private int idade;
     private int codigo;
@@ -15,12 +15,9 @@ public class Pessoas {
 
     public int getIdade() {
         return idade;
-
     }
 
     public int codigo(){
         return codigo;
     }
-
-
 }
